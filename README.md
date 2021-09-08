@@ -1,16 +1,41 @@
-### Hi there 👋
+Electrician and Security Technician by trade
 
-<!--
-**sholmqvist/sholmqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently undertaking a full-time 2 year Java Developer program @Teknikhögskolan, Gothenburg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact E-mail: sholmqvist89@gmail.com
+
+---
+
+>Technologies i have worked with and currently study:
+
+
+>- **Java** (the main language of study)
+	- *Maven*, *Spring Boot*, *JUnit Testing*
+
+
+
+>- **Javascript** 
+	- *HTML*, *CSS* & *React.js*
+
+
+>- **SQL**
+	- *MySQL*, *SQLite*, *PostgreSQL*
+
+
+>- **REST**
+
+>- **GIT**
+
+>- **Agile Dev Methodology**
+
+>- **UML & ER Modeling**
+
+
+>- **Other**
+	- *Interest in IT-Security*
+	- *Linux and FOSS Enthusiast (albeit still quite an amateur at it)*
+
+
+btw, i use Arch ;)
