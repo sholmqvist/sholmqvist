@@ -11,26 +11,26 @@ Contact E-mail: sholmqvist89@gmail.com
 Technologies i have worked with and currently study:
 
 
->- **Java** (the main language of study)
+- **Java** (the main language of study)
 	- *Maven*, *Spring Boot*, *JUnit Testing*
 
 
 
->- **Javascript** 
+- **Javascript** 
 	- *HTML*, *CSS* & *React.js*
 
 
->- **SQL**
+- **SQL**
 	- *MySQL*, *SQLite*, *PostgreSQL*
 
 
->- **REST**
+- **REST**
 
->- **GIT**
+- **GIT**
 
->- **Agile Dev Methodology**
+- **Agile Dev Methodology**
 
->- **UML & ER Modeling**
+- **UML & ER Modeling**
 
 
 - **Other**
