@@ -33,7 +33,7 @@ Technologies i have worked with and currently study:
 >- **UML & ER Modeling**
 
 
->- **Other**
+- **Other**
 	- *Interest in IT-Security*
 	- *Linux and FOSS Enthusiast (albeit still quite an amateur at it)*
 
