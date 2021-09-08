@@ -8,7 +8,7 @@ Contact E-mail: sholmqvist89@gmail.com
 
 ---
 
->Technologies i have worked with and currently study:
+Technologies i have worked with and currently study:
 
 
 >- **Java** (the main language of study)
