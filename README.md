@@ -12,7 +12,7 @@ Technologies i have worked with and currently study:
 
 
 - **Java** (the main language of study)
-	- *Maven*, *Spring Boot*, *JUnit Testing*
+	- *Maven*, *Spring*, *JUnit Testing*
 
 
 
@@ -21,7 +21,7 @@ Technologies i have worked with and currently study:
 
 
 - **SQL**
-	- *MySQL*, *SQLite*, *PostgreSQL*
+	- *MySQL*, *SQLite*, *PostgreSQL*, *MongoDB*
 
 
 - **REST**
@@ -29,6 +29,8 @@ Technologies i have worked with and currently study:
 - **GIT**
 
 - **Agile Dev Methodology**
+
+- **Docker** 
 
 - **UML & ER Modeling**
 
