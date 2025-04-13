@@ -1,10 +1,10 @@
 Electrician and Security Technician by trade
 
 
-Currently undertaking a full-time 2 year Java Developer program @Teknikhögskolan, Gothenburg
+Former student of the Java Developer program @Teknikhögskolan, Gothenburg
 
 
-Contact E-mail: sholmqvist89@gmail.com
+Contact E-mail: sholmqvist@proton.me
 
 ---
 
@@ -12,7 +12,7 @@ Technologies i have worked with and currently study:
 
 
 - **Java** (the main language of study)
-	- *Maven*, *Spring Boot*, *JUnit Testing*
+	- *Maven*, *Spring*, *JUnit Testing*
 
 
 
@@ -21,7 +21,7 @@ Technologies i have worked with and currently study:
 
 
 - **SQL**
-	- *MySQL*, *SQLite*, *PostgreSQL*
+	- *MySQL*, *SQLite*, *MongoDB*
 
 
 - **REST**
@@ -30,12 +30,12 @@ Technologies i have worked with and currently study:
 
 - **Agile Dev Methodology**
 
+- **Docker** 
+
 - **UML & ER Modeling**
 
 
 - **Other**
 	- *Interest in IT-Security*
-	- *Linux and FOSS Enthusiast (albeit still quite an amateur at it)*
+	- *Linux and Open Source Enthusiast (albeit still quite an amateur at it)*
 
-
-btw, i use Arch ;)
