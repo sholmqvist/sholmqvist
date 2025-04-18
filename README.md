@@ -1,7 +1,7 @@
 Electrician and Security Technician by trade
 
 
-Former student of the Java Developer program @Teknikhögskolan, Gothenburg
+Former student of the Java Developer program @Teknikhögskolan, Gothenburg.
 
 
 Contact E-mail: sholmqvist@proton.me
