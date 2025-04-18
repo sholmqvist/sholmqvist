@@ -8,7 +8,7 @@ Contact E-mail: sholmqvist@proton.me
 
 ---
 
-Technologies i have worked with and currently study:
+Technologies i have worked with and have studied:
 
 
 - **Java** (the main language of study)
